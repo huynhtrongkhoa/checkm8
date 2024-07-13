@@ -1,9 +1,84 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T02:51:28.624Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.6.5" etag="zsOdvKKgO8LFPW-3YpJ6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T02:52:45.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="wx-fN2H9yESRofWK23XQ" version="24.6.5" type="github">
   <diagram name="Page-1" id="iXaD2ncZ9N8IlxEiycJK">
-    <mxGraphModel>
+    <mxGraphModel dx="2899" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-730" y="690" width="1230" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="290" y="760" width="170" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-3" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-580" y="785" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-4" value="&lt;b&gt;Các nền tảng mạng xã hội, OTA(Online Travel Agent)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="855" width="240" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-5" value="Nhân viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="370" y="945" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-6" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-500" y="815" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-7" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-495" y="1045" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-8" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-630" y="1075" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-9" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-530" y="935" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-10" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-560" y="1045" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-11" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-640" y="825" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-12" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="927.28" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-13" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-450.59" y="900" as="sourcePoint" />
+            <mxPoint x="-450.59" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;exitX=1.024;exitY=0.602;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qrEU4e8Sn2vzvsywQzIE-20" target="qrEU4e8Sn2vzvsywQzIE-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-72" y="955" as="sourcePoint" />
+            <mxPoint x="-20" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-15" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" target="qrEU4e8Sn2vzvsywQzIE-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-440" y="950" as="sourcePoint" />
+            <mxPoint y="1055" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-16" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://vectorlogo4u.com/wp-content/uploads/2020/10/Facebook-Messenger-New-Logo-Vector-01.png;" vertex="1" parent="1">
+          <mxGeometry x="-316.1" y="995" width="74.07" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-17" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/B/booking-logo-504475D532-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="-232.04" y="980" width="64.07" height="35.45" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-18" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seekvectorlogo.com/wp-content/uploads/2021/12/agoda-vector-logo-small-2021.png;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="982.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-19" value="&lt;b&gt;Bộ phận lễ tân, CSKH&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="305" y="1180" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-20" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;VAIAS&amp;nbsp;&lt;/b&gt;- Tourism&lt;br&gt;&lt;b&gt;V&lt;/b&gt;ietnam&lt;b&gt;&amp;nbsp;AI A&lt;/b&gt;utomation&lt;b&gt;&amp;nbsp;S&lt;/b&gt;ervices&amp;nbsp;- Tourism&lt;br&gt;Nền tảng cung cấp dịch vụ tự động hoá mảng dịch vụ du lịch bằng trí tuệ nhân tạo&lt;br&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#67AB9F;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="880" width="270" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="qrEU4e8Sn2vzvsywQzIE-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qrEU4e8Sn2vzvsywQzIE-4" target="qrEU4e8Sn2vzvsywQzIE-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="194" y="959" as="sourcePoint" />
+            <mxPoint x="350" y="957" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
