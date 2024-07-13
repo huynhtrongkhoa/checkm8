@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T02:20:37.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="2ywJutc6URbo6sO0wfRN" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T02:22:39.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="a1LMbHybQjn7_q6yiMwi" version="24.6.5" type="github">
   <diagram name="Page-1" id="elEsvZVOjZnMp5xaV4e7">
     <mxGraphModel dx="1839" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="a33XXfckhUlw1D4GEtak-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="-760" width="1040" height="570" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-3" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-3" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-510" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
@@ -22,25 +22,25 @@
         <mxCell id="a33XXfckhUlw1D4GEtak-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-40" y="380" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-8" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-8" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-450" y="150" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-9" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-9" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-480" y="440" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-10" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-10" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-450" y="340" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-11" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-11" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-460" y="250" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-12" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-12" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-550" y="390" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-13" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-13" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-510" y="310" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-14" value="du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="a33XXfckhUlw1D4GEtak-14" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="-530" y="225" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-18" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
