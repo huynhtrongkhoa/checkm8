@@ -1,63 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T02:22:39.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="a1LMbHybQjn7_q6yiMwi" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-13T02:33:59.263Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="X7flEM12530A5GvPAsTu" version="24.6.5" type="github">
   <diagram name="Page-1" id="elEsvZVOjZnMp5xaV4e7">
-    <mxGraphModel dx="1839" dy="632" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2537" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="a33XXfckhUlw1D4GEtak-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-760" width="1040" height="570" as="geometry" />
+          <mxGeometry x="-740" y="-5" width="1040" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="a33XXfckhUlw1D4GEtak-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="210" height="450" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-3" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="130" width="30" height="60" as="geometry" />
+          <mxGeometry x="-590" y="90" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="270" width="120" height="60" as="geometry" />
+        <mxCell id="a33XXfckhUlw1D4GEtak-4" value="&lt;b&gt;Các nền tảng mạng xã hội, OTA(Online Travel Agent)&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="160" width="240" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-5" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="175" width="30" height="60" as="geometry" />
+        <mxCell id="a33XXfckhUlw1D4GEtak-5" value="Nhân viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="270" width="30" height="60" as="geometry" />
+        <mxCell id="a33XXfckhUlw1D4GEtak-6" value="Nhân viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="120" y="250" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="380" width="30" height="60" as="geometry" />
+        <mxCell id="a33XXfckhUlw1D4GEtak-7" value="Nhân viên" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="130" y="370" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-8" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="150" width="30" height="60" as="geometry" />
+          <mxGeometry x="-510" y="120" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-9" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="440" width="30" height="60" as="geometry" />
+          <mxGeometry x="-505" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-10" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="340" width="30" height="60" as="geometry" />
+          <mxGeometry x="-640" y="380" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-11" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="250" width="30" height="60" as="geometry" />
+          <mxGeometry x="-540" y="240" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-12" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="390" width="30" height="60" as="geometry" />
+          <mxGeometry x="-570" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-13" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-510" y="310" width="30" height="60" as="geometry" />
+          <mxGeometry x="-650" y="129.99999999999997" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-14" value="Du khách" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="-530" y="225" width="30" height="60" as="geometry" />
+          <mxGeometry x="-620" y="232.28" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-18" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#000000;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-390" y="250" as="sourcePoint" />
-            <mxPoint x="-390" y="350" as="targetPoint" />
+            <mxPoint x="-460.59" y="205" as="sourcePoint" />
+            <mxPoint x="-460.59" y="305" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="a33XXfckhUlw1D4GEtak-4" target="a33XXfckhUlw1D4GEtak-5">
+        <mxCell id="a33XXfckhUlw1D4GEtak-20" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" source="a33XXfckhUlw1D4GEtak-4" target="a33XXfckhUlw1D4GEtak-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-60" y="410" as="sourcePoint" />
             <mxPoint x="-10" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="a33XXfckhUlw1D4GEtak-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;exitX=1.033;exitY=0.65;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="a33XXfckhUlw1D4GEtak-4" target="a33XXfckhUlw1D4GEtak-6">
+        <mxCell id="a33XXfckhUlw1D4GEtak-21" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#000000;" edge="1" parent="1" target="a33XXfckhUlw1D4GEtak-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-160" y="300" as="sourcePoint" />
+            <mxPoint x="-82" y="260" as="sourcePoint" />
             <mxPoint x="-30" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -69,7 +72,7 @@
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-23" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" target="a33XXfckhUlw1D4GEtak-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-380" y="300" as="sourcePoint" />
+            <mxPoint x="-450" y="255" as="sourcePoint" />
             <mxPoint x="-10" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -144,6 +147,18 @@
         </mxCell>
         <mxCell id="a33XXfckhUlw1D4GEtak-62" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="170" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a33XXfckhUlw1D4GEtak-65" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://vectorlogo4u.com/wp-content/uploads/2020/10/Facebook-Messenger-New-Logo-Vector-01.png;" vertex="1" parent="1">
+          <mxGeometry x="-316.1" y="292.28" width="74.07" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="a33XXfckhUlw1D4GEtak-66" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seeklogo.com/images/B/booking-logo-504475D532-seeklogo.com.png;" vertex="1" parent="1">
+          <mxGeometry x="-242.03" y="285.00000000000006" width="64.07" height="35.45" as="geometry" />
+        </mxCell>
+        <mxCell id="a33XXfckhUlw1D4GEtak-67" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://seekvectorlogo.com/wp-content/uploads/2021/12/agoda-vector-logo-small-2021.png;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="279.78" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="a33XXfckhUlw1D4GEtak-71" value="&lt;b&gt;Bộ phận lễ tân, CSKH&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="470" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
